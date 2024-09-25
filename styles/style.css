@@ -273,7 +273,7 @@
 }
 
 .about__text {
-  width: 693px;
+  width: 688px;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -282,6 +282,7 @@
 
 .about__text-no-margin {
   margin-bottom: 0;
+  width: 693px;
 }
 .footer {
   display: flex;
