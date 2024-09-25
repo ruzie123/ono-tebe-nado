@@ -1,7 +1,6 @@
 .header {
   font-family: Raleway, sans-serif;
   width: 1052px;
-  height: 105px;
   display: grid;
   grid-template-columns: 1fr 135px 1fr;
 
@@ -119,7 +118,7 @@
   position: relative;
   justify-content: space-around;
   align-items: center;
-  padding-bottom: 47px;
+  padding-bottom: 50px;
   margin-bottom: 0;
   z-index: 2;
 }
@@ -140,7 +139,9 @@
   color: white;
   background-color: transparent;
   border: 1px solid white;
-  height: 50px;
+  padding-top: 11px;
+  padding-bottom: 9.5px;
+
   width: 255px;
   margin-right: 10px;
 }
@@ -272,6 +273,7 @@
 }
 
 .about__text {
+  width: 693px;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
